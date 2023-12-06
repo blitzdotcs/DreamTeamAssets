@@ -1,0 +1,5 @@
+{
+  "name": "Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary",
+  "references": [],
+  "allowUnsafeCode": true
+}

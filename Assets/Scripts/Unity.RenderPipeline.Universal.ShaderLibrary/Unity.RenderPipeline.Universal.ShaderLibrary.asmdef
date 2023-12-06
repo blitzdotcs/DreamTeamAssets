@@ -1,0 +1,5 @@
+{
+  "name": "Unity.RenderPipeline.Universal.ShaderLibrary",
+  "references": [],
+  "allowUnsafeCode": true
+}
